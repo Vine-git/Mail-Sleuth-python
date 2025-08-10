@@ -16,6 +16,6 @@ A Python tool for gathering/Harvesting email addresses from authorized websites.
 ```bash
 python email_scraper.py
 ## Disclaimer
-This project was created for **educational purposes only** as part of my ethical hacking training.  
-Use this tool *only* on systems and websites you own or have explicit permission to test.  
+This project was created for educational purposes only as part of my ethical hacking training.  
+Use this tool only on systems and websites you own or have explicit permission to test.  
 The author is **not responsible** for any misuse or damage caused by this software.
